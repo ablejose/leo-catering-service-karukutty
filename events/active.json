@@ -1,0 +1,51 @@
+{
+  "slug": "leo-catering-service-karukutty",
+  "name": "Leo Catering Service",
+  "shortName": "Leo",
+  "descriptor": "Catering Services",
+  "address": "Road, Karukutty, Angamaly, Keralam 683576",
+  "city": "Karukutty",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "683576",
+  "geo": {
+    "lat": 10.2457789,
+    "lng": 76.3869023
+  },
+  "mapsLink": "https://maps.google.com/?cid=12726450266941274927",
+  "phone": "+91 99460 88466",
+  "whatsapp": "919946088466",
+  "hours": "Open 7:30 am – 8:30 pm · closed Sun",
+  "opens": "07:30",
+  "closes": "20:30",
+  "rating": 4.7,
+  "reviewCount": 40,
+  "reviews": [
+    {
+      "name": "EDWIN",
+      "rating": 5,
+      "quote": "Loved there food and affordable pricing only"
+    },
+    {
+      "name": "Nirun P Johnson",
+      "rating": 4,
+      "quote": "Nice and very good service food was awesome"
+    },
+    {
+      "name": "Abinvarghese m.a.",
+      "rating": 5,
+      "quote": "Delicious food providers with reasonable price"
+    },
+    {
+      "name": "ANSON PYNADATH",
+      "rating": 4,
+      "quote": "Better food. Better Service. in affordable price with customizable menu."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://leo-catering-service-karukutty.vercel.app"
+}
